@@ -1,3 +1,6 @@
+import './EmailActions.css'
+
+
 function EmailActions() {
   return (
     <section className="email-actions">

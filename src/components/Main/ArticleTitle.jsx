@@ -1,3 +1,6 @@
+import './ArticleTitle.css'
+
+
 function ArticleTitle() {
   return (
     <div className="title">
