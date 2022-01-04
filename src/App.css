@@ -4,7 +4,8 @@
   display: grid;
   grid-template:
     'header header' 50px
-    'left-menu emails' 1fr /
+    'left-menu emails' 1fr
+    'left-menu reply' auto /
     180px 1fr;
 }
 
@@ -72,3 +73,4 @@
 .app > .left-menu .inbox-list .item.toggle {
   background-color: transparent;
 }
+

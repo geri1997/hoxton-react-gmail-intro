@@ -1,6 +1,5 @@
 import './App.css'
 
-
 import Header from './components/Header/Header'
 import LeftMenu from './components/Header/LeftMenu'
 import Main from './components/Main/Main'
